@@ -1,0 +1,1 @@
+[null,{"name":"Jeśli ktoś wejdzie na serwer","temp":"member","event-type":"6","actions":[{"info":"1","find":"Użytkownik","storage":"1","varName":"name","name":"Find Role"},{"member":"2","varName2":"member","role":"3","varName":"name","name":"Add Member Role"}],"_id":"FgUQu"},{"name":"NewEvent","temp":"","event-type":"0","_id":"zNFnv","actions":[]}]
